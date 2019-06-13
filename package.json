@@ -1,0 +1,19 @@
+{
+  "resolutions": {
+    "nan": "2.14.0",
+    "strip-ansi": "4.0.0",
+    "ansi-regex": "3.0.0",
+    "minimist": "1.2.0",
+    "camelcase": "3.0.0",
+    "semver": "5.7.0",
+    "string-width": "2.1.1",
+    "is-fullwidth-code-point": "2.0.0",
+    "punycode": "2.1.1",
+    "extsprintf": "1.4.0",
+    "pump": "2.0.1"
+  },
+  "dependencies": {
+    "bignum": "^0.13.0",
+    "node-sass": "^4.12.0"
+  }
+}
